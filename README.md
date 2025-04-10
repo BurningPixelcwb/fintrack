@@ -1,5 +1,3 @@
-Perfeito! Aqui está o conteúdo **exato** que você pode copiar e colar no seu `README.md` no GitHub — já formatado, bonito e funcional. Só precisa substituir os lugares indicados entre `<>` com seu nome de usuário ou e-mail, se quiser:
-
 ---
 
 ```markdown
@@ -66,11 +64,6 @@ Você pode testar o funcionamento com esta nota fiscal real de exemplo:
 
 ---
 
-## 📸 Screenshots
-
-> (Adicione aqui imagens do sistema rodando, se tiver — por exemplo: interface CLI, prints do banco de dados, logs, etc.)
-
----
 
 ## 🤝 Contribuição
 
@@ -84,22 +77,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-## 📬 Contato
-
-Em caso de dúvidas, sugestões ou ideias, entre em contato por:
-
-- GitHub: [@<seu-usuario>](https://github.com/<seu-usuario>)
-- Email: <seu.email@exemplo.com>
-
----
-
 > Fintrack – Simplifique sua organização financeira. 💰
-```
-
----
-
-Se quiser, posso:
-- Gerar uma **screenshot fake** do sistema (pra colocar ali na seção `📸 Screenshots`)
-- Criar um **logo estilizado** pra usar no topo
-
-Quer que eu gere alguma dessas imagens pra você agora?
